@@ -1,7 +1,5 @@
+# digimodes-interface
 
-
-
-# digimodes-interface-
 Digimodes interfaces for old analog transcievers without VOX functionality. It requires to be powered to activate the PTT while sending audio from computer.
 The first transistor in the schematic amplifies the audio signal. The following is the rectifier diode on filters. This diode must be a germanium diode because its 0.3volts threshold voltage.
 
@@ -9,7 +7,7 @@ This was design specially for an Icom IC-725 to be connected in the mic connecto
 If your transciever doesn't have a Vcc output, you can use a 9v battery.
 
 Special thanks to LU5VV for all the support and the initial desing.
+
 LU6VJN
 
-
-![image](./Alto - Roe.png)
+![alt text](https://github.com/jjnicola/digimodes-interface-/blob/main/Alto%20-%20Roe.png)
